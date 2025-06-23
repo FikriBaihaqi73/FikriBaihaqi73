@@ -9,7 +9,7 @@ Gw lagi fokus di dunia **web development** dan **AI tools**, sambil ngembangin s
 
 ## 🔧 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,php,laravel,react,nextjs,nuxtjs,express,vue,nodejs,postgres,mysql,git,github,vscode,figma)
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,php,laravel,react,nextjs,nuxtjs,express,vue,nodejs,postgres,mysql,postman,git,github,vscode,figma)
 
 ---
 ## 📊 Bahasa Pemrograman yang Paling Sering Gue Pakai
