@@ -12,6 +12,11 @@ Gw lagi fokus di dunia **web development** dan **AI tools**, sambil ngembangin s
 ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,php,laravel,react,nextjs,nuxtjs,express,vue,nodejs,postgres,mysql,git,github,vscode,figma)
 
 ---
+## 📊 Bahasa Pemrograman yang Paling Sering Gue Pakai
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FikriBaihaqi73&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ## 📈 GitHub Stats
 
