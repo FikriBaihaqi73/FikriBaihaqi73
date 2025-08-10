@@ -2,7 +2,7 @@
 
 > “Tantangan terbesar bukan pada materi, tapi pada diri sendiri—apakah kita mau terus bertumbuh atau menyerah di tengah jalan.” ~Maou73
 
-🧠 Programmer | 🎨 Designer | ✍️ Penulis | 🚀 Visionary  
+🧠 Programmer | ✍️ Penulis | 🚀 Visionary  
 Gw lagi fokus di dunia **web development** dan **AI tools**, sambil ngembangin skill storytelling buat konten YouTube, Instagram dan Novel.
 
 ---
